@@ -1,7 +1,3 @@
-Oto przykładowy plik `README.md` dla repozytorium zawierającego Twój kod do predykcji liczby użytkowników portalu społecznościowego w oparciu o regresję liniową.
-
----
-
 # Analiza i Prognoza Liczby Użytkowników Portalu Społecznościowego
 
 Repozytorium zawiera kod w Pythonie do analizy i prognozy liczby użytkowników na podstawie danych historycznych. Kod używa modelu regresji liniowej do przewidywania liczby użytkowników w kolejnych latach oraz tworzy wizualizacje z przedziałami ufności.
