@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3039d423-dbc0-473b-b06b-d992e85925f8" name="Changes" comment="v1">
+    <list default="true" id="3039d423-dbc0-473b-b06b-d992e85925f8" name="Changes" comment="v2 duża zmiana dodane 5 modeli">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LAB1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LAB1.ipynb" afterDir="false" />
     </list>
@@ -53,6 +53,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;Maciek__Testing__area&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -72,8 +73,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
-        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-PY-243.21565.199" />
+        <option value="bundled-python-sdk-cab1f2013843-4ae2d6a61b08-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.21565.199" />
       </set>
     </attachedChunks>
   </component>
@@ -87,7 +88,10 @@
       <updated>1731512184809</updated>
       <workItem from="1731512192308" duration="4259000" />
       <workItem from="1731516753450" duration="2300000" />
-      <workItem from="1731539475637" duration="3679000" />
+      <workItem from="1731539475637" duration="4396000" />
+      <workItem from="1731598468226" duration="183000" />
+      <workItem from="1731598778786" duration="77000" />
+      <workItem from="1731600782622" duration="5027000" />
     </task>
     <task id="LOCAL-00001" summary="v0">
       <option name="closed" value="true" />
@@ -129,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731539540263</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="v2 duża zmiana dodane 5 modeli">
+      <option name="closed" value="true" />
+      <created>1731543843804</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731543843804</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +189,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v0" />
     <MESSAGE value="v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1" />
+    <MESSAGE value="v2 duża zmiana dodane 5 modeli" />
+    <option name="LAST_COMMIT_MESSAGE" value="v2 duża zmiana dodane 5 modeli" />
   </component>
 </project>
