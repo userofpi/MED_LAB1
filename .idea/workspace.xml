@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3039d423-dbc0-473b-b06b-d992e85925f8" name="Changes" comment="v1">
+    <list default="true" id="3039d423-dbc0-473b-b06b-d992e85925f8" name="Changes" comment="wersja stablina">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LAB1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +15,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -193,6 +195,7 @@
       <workItem from="1732032172684" duration="20021000" />
       <workItem from="1732727567072" duration="4353000" />
       <workItem from="1732793887752" duration="2919000" />
+      <workItem from="1733000907155" duration="494000" />
     </task>
     <task id="LOCAL-00001" summary="v0">
       <option name="closed" value="true" />
@@ -258,15 +261,7 @@
       <option name="project" value="LOCAL" />
       <updated>1732731047439</updated>
     </task>
-    <task id="LOCAL-00009" summary="v1">
-      <option name="closed" value="true" />
-      <created>1732910178537</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1732910178537</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
