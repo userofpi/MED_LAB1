@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3039d423-dbc0-473b-b06b-d992e85925f8" name="Changes" comment="wersja v1">
+    <list default="true" id="3039d423-dbc0-473b-b06b-d992e85925f8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB1_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LAB1_2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +32,9 @@
     "accountId": "8a2013e5-cba4-4d91-813b-2ca2abfef7bb"
   }
 }]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.venv/Lib/site-packages/pandas/core/frame.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -51,6 +53,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -71,11 +74,33 @@
       <option name="presentableId" value="Default" />
       <updated>1731512184809</updated>
       <workItem from="1731512192308" duration="6000" />
-      <workItem from="1733233611685" duration="2901000" />
+      <workItem from="1733233611685" duration="6809000" />
     </task>
+    <task id="LOCAL-00001" summary="wersja v1">
+      <option name="closed" value="true" />
+      <created>1733239231853</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733239231853</updated>
+    </task>
+    <task id="LOCAL-00002" summary="dodano zaleznosci pearsona">
+      <option name="closed" value="true" />
+      <created>1733239299251</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733239299251</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="wersja v1" />
+    <MESSAGE value="dodano zaleznosci pearsona" />
+    <option name="LAST_COMMIT_MESSAGE" value="dodano zaleznosci pearsona" />
   </component>
 </project>
