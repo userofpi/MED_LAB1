@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3039d423-dbc0-473b-b06b-d992e85925f8" name="Changes" comment="final">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_02_12_2024_19_00_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_02_12_2024_19_00__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LAB1_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LAB1_2.ipynb" afterDir="false" />
     </list>
@@ -82,7 +80,7 @@
       <workItem from="1733409060795" duration="7050000" />
       <workItem from="1733750920250" duration="79000" />
       <workItem from="1733751016066" duration="3455000" />
-      <workItem from="1733838316929" duration="3022000" />
+      <workItem from="1733838316929" duration="4112000" />
     </task>
     <task id="LOCAL-00001" summary="wersja v1">
       <option name="closed" value="true" />
@@ -116,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733436501239</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="final">
+      <option name="closed" value="true" />
+      <created>1733841395377</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733841395377</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +132,7 @@
     <MESSAGE value="wersja v1" />
     <MESSAGE value="dodano zaleznosci pearsona" />
     <MESSAGE value="new" />
-    <option name="LAST_COMMIT_MESSAGE" value="new" />
+    <MESSAGE value="final" />
+    <option name="LAST_COMMIT_MESSAGE" value="final" />
   </component>
 </project>
